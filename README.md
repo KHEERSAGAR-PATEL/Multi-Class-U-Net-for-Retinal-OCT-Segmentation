@@ -1,13 +1,4 @@
 # Multi-Class-U-Net-for-Retinal-OCT-Segmentation
-This repository implements a Multi-Class U-Net architecture for retinal OCT image segmentation, focusing on segmenting critical retinal layers and pathological fluids. The model demonstrates state-of-the-art performance making it suitable for applications in medical image analysis and scalable AI healthcare solutions.
-Here is an updated **README.md** file incorporating the evaluation results for your U-Net model, tailored to showcase its performance and precision for **MAANG-level Applied Scientist roles**. The addition of **quantitative metrics** such as Dice Coefficient and IoU ensures that the results are presented with clarity and aligned with high research and industry standards.
-
----
-
-# Multi-Class U-Net for Retinal OCT Segmentation
-
-## Overview
-
 This repository implements a **Multi-Class U-Net** architecture for **retinal OCT image segmentation**, focusing on segmenting critical retinal layers and pathological fluids. The model demonstrates state-of-the-art performance through the integration of dropout regularization, skip connections, and upsampling layers.  
 
 Designed for precision and robustness, the model achieves exceptional accuracy and generalizability, making it suitable for applications in **medical image analysis** and scalable AI healthcare solutions.
